@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.group {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 250px;
+}
+
+.group__extra {
+    justify-content: space-between;
+
+}
+
+.group__extra-item {
+    margin-right: 15px;
+}
+
+.folders__list{
+    list-style-type: none;
+}
